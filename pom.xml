@@ -5,7 +5,7 @@
 	<artifactId>SpringFormApp</artifactId>
 	<packaging>war</packaging>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>SpringMVCFormApp</name>
+	<name>springMVC</name>
 	<url>http://maven.apache.org</url>
 	<dependencies>
 		<dependency>
@@ -36,6 +36,6 @@
 		</dependency>
 	</dependencies>
 	<build>
-		<finalName>SpringFormApp</finalName>
+		<finalName>springMVC</finalName>
 	</build>
 </project>
